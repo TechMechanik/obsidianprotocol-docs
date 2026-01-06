@@ -1,4 +1,5 @@
 ---
+# Added to satisfy yamllint: explicit document start
 site_name: Obsidian Protocol Docs
 site_url: https://docs.obsidianprotocol.xyz
 site_description: Documentation for the Obsidian Protocol (ATM10)
