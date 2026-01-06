@@ -1,3 +1,4 @@
+---
 site_name: Obsidian Protocol Docs
 site_url: https://docs.obsidianprotocol.xyz
 site_description: Documentation for the Obsidian Protocol (ATM10)
@@ -17,7 +18,10 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/discord
-        link: https://discord.com/channels/511233523500449803
+      link: https://discord.com/channels/511233523500449803
+
+markdown_extensions:
+  - admonition
   - codehilite
   - toc:
       permalink: true
