@@ -1,0 +1,26 @@
+site_name: Obsidian Protocol Docs
+site_url: https://docs.obsidianprotocol.xyz
+site_description: Documentation for the Obsidian Protocol (ATM10)
+repo_url: https://github.com/TechMechanik/obsidianprotocol-site
+nav:
+  - Home: index.md
+  - Setup: setup.md
+  - Rules: rules.md
+theme:
+  name: "material"
+  palette:
+    primary: 'purple'
+    accent: 'cyan'
+  font:
+    text: 'Space Grotesk'
+    code: 'Fira Code'
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/INVITE
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
