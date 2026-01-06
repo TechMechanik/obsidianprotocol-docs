@@ -17,10 +17,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/INVITE
-
-markdown_extensions:
-  - admonition
+        link: https://discord.com/channels/511233523500449803
   - codehilite
   - toc:
       permalink: true
